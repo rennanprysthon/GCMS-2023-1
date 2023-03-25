@@ -7,3 +7,4 @@ Coloque seu nome abaixo se você é um dos colaboradores do repositório:
 * NOME SOBRENOME (@login)
 * Samuel Paes (@scpaes)
 * Lena Diene (@lenadiene)
+* Nicolas Silva (@NicolasSilvaDA)

@@ -6,3 +6,4 @@ Coloque seu nome abaixo se você é um dos colaboradores do repositório:
 * Ramide Dantas (@ramidedantas, dono)
 * NOME SOBRENOME (@login)
 * Samuel Paes (@scpaes)
+* Lena Diene (@lenadiene)

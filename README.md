@@ -8,3 +8,4 @@ Coloque seu nome abaixo se você é um dos colaboradores do repositório:
 * Samuel Paes (@scpaes)
 * Lena Diene (@lenadiene)
 * Nicolas Silva (@NicolasSilvaDA)
+* Guilherme Arruda (@guilhermearruda98)

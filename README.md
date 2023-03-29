@@ -9,3 +9,4 @@ Coloque seu nome abaixo se você é um dos colaboradores do repositório:
 * Lena Diene (@lenadiene)
 * Nicolas Silva (@NicolasSilvaDA)
 * Guilherme Arruda (@guilhermearruda98)
+* Rafael Moraes (@Rafaelmoraes05)

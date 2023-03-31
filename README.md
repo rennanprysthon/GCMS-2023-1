@@ -10,3 +10,4 @@ Coloque seu nome abaixo se você é um dos colaboradores do repositório:
 * Nicolas Silva (@NicolasSilvaDA)
 * Guilherme Arruda (@guilhermearruda98)
 * Rafael Moraes (@Rafaelmoraes05)
+* Jeozadaque Macedo (@jeozadaquemacedo)

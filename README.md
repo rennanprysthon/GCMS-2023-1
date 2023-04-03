@@ -11,3 +11,4 @@ Coloque seu nome abaixo se você é um dos colaboradores do repositório:
 * Guilherme Arruda (@guilhermearruda98)
 * Rafael Moraes (@Rafaelmoraes05)
 * Jeozadaque Macedo (@jeozadaquemacedo)
+* Anderson Guilherme (@AndersonG2021)

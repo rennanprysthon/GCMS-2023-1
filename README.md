@@ -12,4 +12,4 @@ Coloque seu nome abaixo se você é um dos colaboradores do repositório:
 * Rafael Moraes (@Rafaelmoraes05)
 * Jeozadaque Macedo (@jeozadaquemacedo)
 * Anderson Guilherme (@AndersonG2021)
-* Lucas Gomes (@Oli-Lukas)
+* Lucas Oliveira (@Oli-Lukas)

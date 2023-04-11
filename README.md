@@ -13,3 +13,4 @@ Coloque seu nome abaixo se você é um dos colaboradores do repositório:
 * Jeozadaque Macedo (@jeozadaquemacedo)
 * Anderson Guilherme (@AndersonG2021)
 * Lucas Oliveira (@Oli-Lukas)
+* Iago Pedro (@iagopedro)

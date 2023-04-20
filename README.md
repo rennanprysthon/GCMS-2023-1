@@ -15,3 +15,4 @@ Coloque seu nome abaixo se você é um dos colaboradores do repositório:
 * Lucas Oliveira (@Oli-Lukas)
 * Iago Pedro (@iagopedro)
 * Filipe Bessa (@filipeabessa)
+* Carlos Oliveira (@CarlosOliveira0)

@@ -8,5 +8,14 @@ public class HelloWorld
 		
 		System.out.println("Lucas de Oliveira -> Fazendo modificações aqui.");
 		System.out.println("Lucas de Oliveira -> Hello World!!!");
+		
+		
+		System.out.println();
+		
+		System.out.println("=================================================");
+		System.out.println("Lilian Beatriz Fazendo alterações neste arquivo");
+		
+		System.out.println("GitHub: @beatrizgomess - Hello World!!!!");
+		
 	}
 }

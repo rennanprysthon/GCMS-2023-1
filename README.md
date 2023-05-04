@@ -17,3 +17,4 @@ Coloque seu nome abaixo se você é um dos colaboradores do repositório:
 * Filipe Bessa (@filipeabessa)
 * Carlos Oliveira (@CarlosOliveira0)
 * Larissa Silva (@Larissamrs)
+* Lilian Beatriz (@beatrizgomess)

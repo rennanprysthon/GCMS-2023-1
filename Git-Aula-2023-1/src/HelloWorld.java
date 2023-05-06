@@ -5,7 +5,7 @@ public class HelloWorld
 	{
 		System.out.println("Hello World!!!");
 		System.out.println("Copia Bash + Eclipse");
-		System.out.println("Branch Bash");
+		System.out.println("Branch Bash + Eclipse");
 		
 		System.out.println("Lucas de Oliveira -> Hello World!!!");
 		System.out.println("Lilian Beatriz Fazendo alteracoes neste arquivo");

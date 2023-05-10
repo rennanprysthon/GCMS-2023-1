@@ -16,5 +16,7 @@ public class HelloWorld
 		
 		System.out.println("Lilian-Beatriz -> Trabalhando com Pull Request.");
 		
+		System.out.println("Nicolas Araújo - Alterações da prática 03");
+		
 	}
 }

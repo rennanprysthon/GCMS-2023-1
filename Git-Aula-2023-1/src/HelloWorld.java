@@ -16,9 +16,10 @@ public class HelloWorld
 		
 		System.out.println("Lilian-Beatriz -> Trabalhando com Pull Request.");
 		
-		System.out.println("Nicolas Araújo - Alterações da prática 03");
+		System.out.println("Nicolas Araï¿½jo - Alteraï¿½ï¿½es da prï¿½tica 03");
 		System.out.println("NicolasAraujo : Adicionando um branch");
 		System.out.println("NicolasAraujo : Fazendo Pull Request");
 		
+		System.out.println("Rafael Moraes -> Hello World!!!");
 	}
 }

@@ -19,3 +19,4 @@ Coloque seu nome abaixo se você é um dos colaboradores do repositório:
 * Larissa Silva (@Larissamrs)
 * Lilian Beatriz (@beatrizgomess)
 * Rennan Prysthon (@rennanprysthon)
+* Gabriel Alves (@GabrielAlves0501)

@@ -21,8 +21,7 @@ public class HelloWorld
 		System.out.println("NicolasAraujo : Fazendo Pull Request");
 		
 		System.out.println("Rafael Moraes -> Hello World!!!");
-		System.out.println("Rennan Prysthon -> Hello World!!!");
-		
-		
+		System.out.println("Rennan Prysthon -> Hello World! via Pull Request");
+
 	}
 }

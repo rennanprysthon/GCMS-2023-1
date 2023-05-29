@@ -6,7 +6,7 @@ public class HelloWorld
 		System.out.println("Hello World!!!");
 		System.out.println("Copia Bash + Eclipse");
 		System.out.println("Branch Bash + Eclipse");
-		System.out.println("Mudan�a para PR reverso!");
+		System.out.println("Mudan�a para PR reverso!");
 		
 		System.out.println("Lucas de Oliveira -> Hello World!!!");
 		System.out.println("[branch: Lucas-Oliveira] -> Realizando mais alterações.");
@@ -24,6 +24,8 @@ public class HelloWorld
 		System.out.println("Rafael Moraes -> Hello World!!!");
 		System.out.println("Rennan Prysthon -> Hello World! via Pull Request");
 		System.out.println("JeozadaqueMacedo -> Hello World!");
+		
+		System.out.println("Lucas André -> Hello World!/ Prática 03");
 		
 	}
 }

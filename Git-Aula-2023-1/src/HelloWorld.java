@@ -25,7 +25,7 @@ public class HelloWorld
 		System.out.println("Rennan Prysthon -> Hello World! via Pull Request");
 		System.out.println("JeozadaqueMacedo -> Hello World!");
 		
-		System.out.println("Lucas André -> Hello World!/ Prática 03");
+		System.out.println("Lucas André -> Hello World!");
 		
 	}
 }

@@ -26,10 +26,11 @@ public class HelloWorld
 		System.out.println("JeozadaqueMacedo -> Hello World!");
 		
 		System.out.println("Lucas André -> Hello World!");
-		
+		System.out.println("Lucas André -> Pratica 4 - Pull Request");
+
 		System.out.println("Iago Pedro: Hello World!!!");
 		System.out.println("Iago Pedro: prática de branching");
-		System.out.println("Iago Pedro: pull request!!!!!!")
+		System.out.println("Iago Pedro: pull request!!!!!!");
 		
 	}
 }

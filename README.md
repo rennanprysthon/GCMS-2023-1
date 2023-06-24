@@ -21,3 +21,4 @@ Coloque seu nome abaixo se você é um dos colaboradores do repositório:
 * Rennan Prysthon (@rennanprysthon)
 * Gabriel Alves (@GabrielAlves0501)
 * Lucas André (@MoonEye696)
+* Akin Dagba (@AkinDagba)

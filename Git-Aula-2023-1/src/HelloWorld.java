@@ -42,7 +42,7 @@ public class HelloWorld
 		
 		System.out.println("Ramide: Mudanca para PR reverso!");
 		
-		System.out.println("Marilia Santiago: Prática 02 - Fazendo commits locais na cópia do repositório. ");
+		System.out.println("Marilia Santiago: Prática 03 - Fazendo commits locais na cópia do repositório. ");
 
 	}
 }

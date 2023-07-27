@@ -45,6 +45,8 @@ public class HelloWorld
 		System.out.println("Marilia Santiago: Prática 03 - Fazendo commits locais na cópia do repositório. ");
 		System.out.println("Nova branch adicionada: Marilia Santiago");
 		System.out.println("Marilia Santiago: Fazendo pull request.");
+		System.out.println("Marilia Santiago: Fazendo alterações no meu repositório fork");
+		System.out.println("Marilia Santiago: Nova pull request");
 
 		
 

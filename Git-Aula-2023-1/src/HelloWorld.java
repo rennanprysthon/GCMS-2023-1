@@ -41,6 +41,8 @@ public class HelloWorld
 		System.out.println("Filipe Bessa: Estou fazendo um pull request!");
 		
 		System.out.println("Ramide: Mudanca para PR reverso!");
+		
+		System.out.println("Marilia Santiago: Prática 02 - Fazendo commits locais na cópia do repositório. ");
 
 	}
 }

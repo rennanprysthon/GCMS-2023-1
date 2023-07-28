@@ -55,12 +55,14 @@ public class HelloWorld
 		
 		
 		
-		System.out.println("Samuel Paes, trabalhando na prática 03");
+		System.out.println("Samuel Paes: trabalhando na prática 03");
 
-		System.out.println("Samuel Paes, Trabalhando com o repositório da turma (diretamente)");
-		System.out.println("Samuel Paes prática 04");
+		System.out.println("Samuel Paes: Trabalhando com o repositório da turma (diretamente)");
+		System.out.println("Samuel Paes: prática 04");
 		
 		System.out.println("Pull request Samuel Paes");
 		System.out.println("Pull request Samuel Paes correção");
+
+		System.out.println("Samuel Paes: Mudança para PR reverso!");
 	}
 }

@@ -1,5 +1,5 @@
 # GCMS-2023-1
-Repositório da turma de GCMS do IFPE-Recife, 2023.1
+Repositório da turma de GCMS do IFPE-Recife, 2023.1!
 
 ## Colaboradores
 Coloque seu nome abaixo se você é um dos colaboradores do repositório:
@@ -19,3 +19,7 @@ Coloque seu nome abaixo se você é um dos colaboradores do repositório:
 * Larissa Silva (@Larissamrs)
 * Lilian Beatriz (@beatrizgomess)
 * Rennan Prysthon (@rennanprysthon)
+* Gabriel Alves (@GabrielAlves0501)
+* Lucas André (@MoonEye696)
+* Akin Dagba (@AkinDagba)
+* Marilia Santiago (@mariliaalines)
